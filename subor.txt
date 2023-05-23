@@ -1,1 +1,3 @@
 hello world how are you?
+ahoj svet ako sa mas?
+hallo welt wie geht's?
